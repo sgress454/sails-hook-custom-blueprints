@@ -1,0 +1,26 @@
+{
+  "name": "sails-hook-custom-blueprints",
+  "version": "1.0.0",
+  "description": "A Sails 1.x hook to re-enable custom blueprint definitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "sails": {
+    "isHook": true
+  },
+  "dependencies": {
+    "include-all": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgress454/sails-hook-custom-blueprints.git"
+  },
+  "author": "sgress454",
+  "bugs": {
+    "url": "https://github.com/sgress454/sails-hook-custom-blueprints/issues"
+  },
+  "homepage": "https://github.com/sgress454/sails-hook-custom-blueprints#readme"
+}
